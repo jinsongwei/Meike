@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/classes-073d53c4355a952cbf1a1b85faeb3ccf7ef9252b.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-f766d063ee9e334eda875ac9da25eca633b989dd.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/classes-3eda9a493c32b15fd2339203f5d339a333e4f085.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/classes-85b7137b5491e7137f07a29922d4ca9bdb57b0a3.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/aws-android-sdk-cognito-2.2.5/aws-android-sdk-cognito-2.2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="da8389b0a1f6b35e017412716eafc343790ca5f2">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognito-2.2.5-b6138eae61cc12cee923c9c0bd479937ee74c469.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/classes-8fc1942f8616762e91b48757270e8b217c85f043.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-5d643b05ce2783b2be634012138035bdae9ba91f.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/aws-android-sdk-core-2.2.5/aws-android-sdk-core-2.2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccd427b798b68d6add14c1926e987903b6d762b3">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.5-64eb84d35ecb96871012bc86e04a637b3309902f.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/aws-android-sdk-ddb-2.2.5/aws-android-sdk-ddb-2.2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="291c9e02eb08cbe57875687f7f93f8be4419500f">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ddb-2.2.5-a3e8a776fbdecb6d9a8ef8a2c141cf4572d07afd.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/aws-android-sdk-ddb-mapper-2.2.5/aws-android-sdk-ddb-mapper-2.2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="274d278d741237f41e453ec10d5aab4e4794eb4c">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ddb-mapper-2.2.5-3b903167567131e6c7f6c67201fea960ffc83ee8.jar" />
+    </item>
+    <item
+        jar="/Users/ikurtjiang/Desktop/Meike/aws-android-sdk-s3-2.2.5/aws-android-sdk-s3-2.2.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b6307ddcf3dee4bb3b2be06cb4f392d69c1ca309">
+        <dex dex="/Users/ikurtjiang/Desktop/Meike/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.5-f654a8a42af347f7de99d310e185a50d2805db64.jar" />
+    </item>
+
+</items>
