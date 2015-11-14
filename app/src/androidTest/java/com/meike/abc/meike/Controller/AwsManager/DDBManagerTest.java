@@ -28,7 +28,7 @@ public class DDBManagerTest extends ApplicationTestCase<Application> {
 
     @Override
     public void setUp() throws Exception {
-        manager = new DDBManager(getContext());
+//        manager = new DDBManager(getContext());
     }
 
     public void testLoadList() throws Exception {
@@ -46,30 +46,30 @@ public class DDBManagerTest extends ApplicationTestCase<Application> {
         filter = new ArrayList<>();
         filter.add(new PostAttribute("交易", HousingItem.LEASING_VALUES[4]));
         mix.addAll(filter);
-        temp = manager.loadFilterList(TableType.Housing, filter);
-        printList(temp);
+//        temp = manager.loadFilterList(TableType.Housing, filter);
+//        printList(temp);
 
         /** housing type. */
         Log.println(Log.ASSERT, TAG, "testing housing type...");
         filter = new ArrayList<>();
         filter.add(new PostAttribute("房屋", HousingItem.HOUSING_VALUES[2]));
         mix.addAll(filter);
-        temp = manager.loadFilterList(TableType.Housing, filter);
-        printList(temp);
+//        temp = manager.loadFilterList(TableType.Housing, filter);
+//        printList(temp);
 
         /** price. */
         Log.println(Log.ASSERT, TAG, "testing price ...");
         filter = new ArrayList<>();
         filter.add(new PostAttribute("价格", "500", '<'));
         mix.addAll(filter);
-        temp = manager.loadFilterList(TableType.Housing, filter);
-        printList(temp);
+//        temp = manager.loadFilterList(TableType.Housing, filter);
+//        printList(temp);
 
 
         /** test mix. */
         Log.println(Log.ASSERT, TAG, "testing mix...");
-        temp = manager.loadFilterList(TableType.Housing, mix);
-        printList(temp);
+//        temp = manager.loadFilterList(TableType.Housing, mix);
+//        printList(temp);
     }
 
 //    public void testLoad() throws Exception {
